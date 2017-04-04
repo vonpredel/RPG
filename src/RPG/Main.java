@@ -6,9 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        GUIforRPG guIforRPG = new GUIforRPG();
+        GUIforRPG guIforRPG = new GUIforRPG();
 
-//        guIforRPG.runGUI();
+        guIforRPG.runGUI();
 
 
         
